@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Space
+comment0.text=\r\n\ Space.\ Something\ for\ rockets\ to\ fly\ in.\r\n\ \r\n\ @author\ Michael\ K\u00F6lling\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Space()
+comment1.text=\r\n\ Create\ the\ space\ and\ all\ objects\ within\ it.\r\n
+comment2.params=
+comment2.target=void\ createBackground()
+comment2.text=\r\n\ createBackground\ fills\ the\ background\ with\ a\ black\ colour\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment3.params=
+comment3.target=void\ prepareGame()
+comment3.text=\r\n\ prepareGame\ adds\ the\ objects\ to\ the\ game\ to\ get\ the\ game\ ready\r\n\ to\ be\ played\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment4.params=
+comment4.target=void\ gameOver()
+comment4.text=\r\n\ gameOver\ displays\ a\ ScoreBoard\ and\ the\ player's\ score\r\n\ after\ the\ player\ is\ destroyed\ by\ an\ asteroid\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment5.params=
+comment5.target=void\ gameWon()
+comment5.text=\r\n\ gameWon\ displays\ a\ congratulatory\ ScoreBoard\ and\ the\ player's\ score\r\n\ after\ the\ player\ destroys\ all\ asteroids\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment6.params=score
+comment6.target=void\ countScore(int)
+comment6.text=\r\n\ countScore\ adds\ a\ number\ of\ points\ to\ the\ score\ counter\r\n\ \r\n\ @param\ score\ is\ the\ number\ of\ points\ being\ added\ to\ the\ score\r\n\ @return\ Nothing\ is\ returned\r\n
+numComments=7

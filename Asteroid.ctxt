@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Asteroid
+comment0.text=\r\n\ A\ rock\ in\ space.\r\n\ \r\n\ @author\ Poul\ Henriksen\r\n\ @author\ Michael\ K\u00F6lling\r\n
+comment1.params=
+comment1.target=Asteroid()
+comment1.text=\r\n\ This\ is\ the\ default\ constructor\ for\ objects\ of\ type\ Asteroid\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment2.params=size
+comment2.target=Asteroid(int)
+comment2.text=\r\n\ Asteroid\ is\ the\ constructor\ for\ objects\ of\ type\ Asteroid.\r\n\ It\ allows\ customization\ of\ the\ size\ of\ the\ Asteroid\r\n\ \r\n\ @param\ size\ represents\ the\ size\ of\ the\ Asteroid\r\n\ @return\ An\ object\ of\ type\ Asteroid\r\n
+comment3.params=size\ velocity
+comment3.target=Asteroid(int,\ Vector)
+comment3.text=\r\n\ Asteroid\ is\ the\ constructor\ for\ objects\ of\ type\ Asteroid.\r\n\ It\ allows\ customization\ of\ the\ size\ of\ the\ Asteroid\ and\r\n\ the\ speed\ and\ direction\ of\ the\ Asteroid\r\n\ \r\n\ @param\ size\ represents\ the\ size\ of\ the\ Asteroid\r\n\ @param\ velocity\ represents\ the\ speed\ and\ direction\ of\ the\ Asteroid\r\n\ @return\ An\ object\ of\ type\ Asteroid\r\n
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\r\n\ act\ is\ the\ method\ that\ is\ run\ on\ every\ \r\n\ iteration\ of\ the\ act\ cycle\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+numComments=5
